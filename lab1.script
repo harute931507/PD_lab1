@@ -1,0 +1,17 @@
+Script started on 2017年03月13日 (週一) 20時00分48秒
+][01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m ][Kwhoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.name=harute931507
+user.email=harute0000@gmail.com
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507/lab.git
+Cloning into 'lab'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [K[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507/lab.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[Klone https://github.com/harute931507/lab.git1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月13日 (週一) 20時07分15秒
