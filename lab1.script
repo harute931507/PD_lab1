@@ -1,17 +1,11 @@
-Script started on 2017年03月13日 (週一) 20時00分48秒
-][01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m ][Kwhoami; pwd
-pd2vm
-/home/pd2vm
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
-user.name=harute931507
-user.email=harute0000@gmail.com
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507/lab.git
-Cloning into 'lab'...
-Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [K[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507/lab.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config -l[Klone https://github.com/harute931507/lab.git1.git
+Script started on 2017年03月14日 (週二) 09時07分21秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/harute931507/lab1.git
 Cloning into 'lab1'...
-warning: You appear to have cloned an empty repository.
+remote: Counting objects: 3, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
 Checking connectivity... done.
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
 
-Script done on 2017年03月13日 (週一) 20時07分15秒
+Script done on 2017年03月14日 (週二) 09時08分32秒
